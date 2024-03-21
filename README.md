@@ -1,4 +1,4 @@
-![Header](./photo_2023-11-06_10-07-56.jpg)
+![Header](./github-header-image.png)
 <!--
 ### Hi there 👋
 **evalsidalven/evalsidalven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
